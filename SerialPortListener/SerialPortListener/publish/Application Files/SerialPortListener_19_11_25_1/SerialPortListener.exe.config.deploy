@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <connectionStrings>
+    <add name="JDE" connectionString="Data Source=JDEDBSRV;Initial Catalog=JDE_CRP;User ID=sa;Password=jdemgr" providerName="System.Data.SqlClient" />
+  </connectionStrings>
+  <appSettings>
+    <add key="schemaDB" value="CRPDTA."/>
+    <add key="stazionePC" value="1"/>
+    <add key="carattereOKPesata" value="1"/>
+    <add key="portaCOM" value="COM4"/>
+    <add key="baudRate" value="19200"/>
+    <add key="carattereInizio" value="9"/>
+    <add key="lunghezzaStringa" value="7"/>
+  </appSettings>
+</configuration>

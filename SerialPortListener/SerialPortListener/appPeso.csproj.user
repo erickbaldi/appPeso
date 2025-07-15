@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\fileserver\appPeso_RICCARNI\|\\NBCED02\CONDIVISA\appPeso\|\\NBCED02\CONDIVISA\SerialPortListener\|\\fileserver\ebaldi\source\repos\C#.NET WPF\SerialPortListener\|C:\CONDIVISA\SerialPortListener\</PublishUrlHistory>
+    <InstallUrlHistory>\\DIREZ01OLD\Users\jde\appPeso_Erick\|\\DIREZ01OLD\Users\eraimondi\appPeso_Erick\|\\RICCARNI1\Users\Public\appPeso_Erick\|\\NBCED02\CONDIVISA\SerialPortListener\SerialPortListener\publish\|\\fileserver\ebaldi\source\repos\C#.NET WPF\SerialPortListener\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\DIREZ01OLD\Users\jde\appPeso_Erick\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
