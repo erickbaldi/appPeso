@@ -1,0 +1,10 @@
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojAssemblyReference.cache
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.cache
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.CoreCompileInputs.cache
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\ebaldi\source\repos\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe.config

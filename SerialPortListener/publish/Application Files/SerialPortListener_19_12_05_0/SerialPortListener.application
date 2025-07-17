@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="SerialPortListener.application" version="19.12.05.0" publicKeyToken="ac7372c04671a224" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="Erick" asmv2:product="SerialPortListener" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="file://fileserver/ebaldi/source/repos/C%23.NET%20WPF/SerialPortListener/SerialPortListener.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\SerialPortListener_19_12_05_0\SerialPortListener.exe.manifest" size="10892">
+      <assemblyIdentity name="SerialPortListener.exe" version="19.12.05.0" publicKeyToken="ac7372c04671a224" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>hMRHJsTtuFeCMT1+oC0JD36H82s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=FELSINEO\ebaldi" issuerKeyHash="fff667f72477a4c1a620507fcf28d7ffcb7dfc5f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>xgaDLw8DvlpzvwD9H8zr/nhRIbU=</DigestValue></Reference></SignedInfo><SignatureValue>ccF2D3IFWkO1pqEScDgp8jnQbHlCP+OOkGoF85bCxhNp/9EyukkmZf4rYv4PfCnzKnY9pJPgi1ujiTtX5em9a7uRKYjlgyOADK2y2Mvg0KhNTtJyiJLHXCZCtARDc3Tx6nR4qWJDfJcArQXMzwQj3a6e1OPbuMTTcX3BSFGXx5A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2I4ZjxLg8mUQi9WUrqKuBKmWYa4hvXyuz/PUwHzqTcoP8Ilnguyypp3ASJ33FR5TM0X1PtEcRlPY+9vTHmEfnDFV0ktO7Ey8SVAwxU5ntSB4J08u6qE4lV2/aCDOchha3aNTE1KpYgX/M9fg+UrIYHWbe95IsJ4GEO/bUIOjeN0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b5215178feebcc1ffd00bf735abe030f2f8306c6" Description="" Url=""><as:assemblyIdentity name="SerialPortListener.application" version="19.12.05.0" publicKeyToken="ac7372c04671a224" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=FELSINEO\ebaldi</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>TOrIY7aIJDz84vuUmtGNmGq3PPY=</DigestValue></Reference></SignedInfo><SignatureValue>sRz+0uhXe/ZXeE4NfStaYIoseFcwWn4AfzGLvA9nMFs9x3HN3+RcUTBw8Rf5K5Jd9N75DdW60aS5H4SMBNY2ihgzsjV2j+Sxv4iabgSUz/LSQSu03Qaoc7XX6bhFQmYAcNRlRNuFGklFjZLxAguhiR/K0Z+eWEu6JcdeEZ6w1IQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2I4ZjxLg8mUQi9WUrqKuBKmWYa4hvXyuz/PUwHzqTcoP8Ilnguyypp3ASJ33FR5TM0X1PtEcRlPY+9vTHmEfnDFV0ktO7Ey8SVAwxU5ntSB4J08u6qE4lV2/aCDOchha3aNTE1KpYgX/M9fg+UrIYHWbe95IsJ4GEO/bUIOjeN0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQUQx357NMRKBNawqykDZNJDANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4ARgBFAEwAUwBJAE4ARQBPAFwAZQBiAGEAbABkAGkwHhcNMTkxMTI1MDg0NjM2WhcNMjAxMTI0MTQ0NjM2WjApMScwJQYDVQQDHh4ARgBFAEwAUwBJAE4ARQBPAFwAZQBiAGEAbABkAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANiOGY8S4PJlEIvVlK6irgSplmGuIb18rs/z1MB86k3KD/CJZ4LssqadwEid9xUeUzNF9T7RHEZT2Pvb0x5hH5wxVdJLTuxMvElQMMVOZ7UgeCdPLuqhOJVdv2ggznIYWt2jUxNSqWIF/zPX4PlKyGB1m3veSLCeBhDv21CDo3jdAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEATAeVxsbWz1YSkn8qWnKwxWjTeuL6bqxKnrLcMZRpSH3ftSmMdi0wESVWlcBzrkI5vJC/qjTpKEfcmeSp7uaU2V070grvNoOJ6Td9FhlCRVCEepb+rYdaKOBRkdJpfyb5b+6EX3yrRjP7ZCrd73fD1Bnpm0DZ0t3NkjQ7alo6QGc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
